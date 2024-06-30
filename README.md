@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really enjoy playing and watching most sports
 -->
-- 🔭 I’m currently working on finishing my bachelors degree in statistics
-- 🌱 I’m currently learning about data science processes and algorithms in python
+- 🔭 I’m currently pursuing a Masters in Data Science 
+- 🌱 I’m currently learning about statistical modeling and machine learning methods
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really enjoy playing and watching most sports
+- ⚡ Fun fact: I really enjoy playing sports and solving problems using creative solutions

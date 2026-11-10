@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Aidan 👋
 
-<!--
-**acooney613/acooney613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist with an MS in Data Science (UT Austin) and a BS in Statistics (BYU). I build production ML systems and statistical models that people actually use.
 
-Here are some ideas to get you started:
+**What I work on**
+- 🔭 Production ML pipelines at scale (PySpark, LightGBM, MLflow, Databricks)
+- 📊 Statistical anomaly detection and monitoring (Empirical Bayes, Poisson models)
+- 💬 NLP and robustness for language models (PyTorch, Hugging Face, ELECTRA)
 
-- 🔭 I’m currently working on finishing my bachelors degree in statistics
-- 🌱 I’m currently learning about data science processes and algorithms in python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I really enjoy playing and watching most sports
--->
-- 🔭 I’m currently pursuing a Masters in Data Science from the University of Texas at Austin
-- 🌱 I’m currently learning about machine learning and data science in Python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I really enjoy playing sports and solving problems using creative solutions
+**Featured projects**
+- [Model-Agnostic Debiasing for Robust Language Models](link-to-repo): reducing reliance on dataset artifacts in SNLI with a bias-aware ELECTRA training setup
+- [Transformer-Based Trajectory Planner](link-to-repo): MLP, CNN, and Transformer planners for autonomous navigation
+
+**Tools:** Python · SQL · R · PyTorch · scikit-learn · XGBoost · LightGBM · Hugging Face · Spark · Databricks · MLflow · Docker
+
+**Currently:** exploring time series forecasting and fraud/anomaly detection on financial data
+
+📫 Reach me at acooney613@gmail.com · [LinkedIn](your-linkedin-url)
+
+⚡ Outside of work: I love playing and watching sports, and solving problems with creative approaches.
